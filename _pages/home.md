@@ -4,7 +4,7 @@ title:
 permalink: /home/
 ---
 
-# What is ELLIS?
+## What is ELLIS?
 The [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) is a pan-European AI network of excellence which focuses on fundamental science, technical innovation and societal impact. Founded in 2018, ELLIS builds upon machine learning as the driver for modern AI and aims to secure Europe’s sovereignty in this competitive field by creating a multi-centric AI research laboratory. ELLIS has established 41 units in 16 different countries in Europe. It has also launched the ELLIS PhD Program, one of Europe’s most competitive PhD programs which aims to foster and educate the best talent in machine learning and related research areas by pairing outstanding students with leading academic and industrial researchers across Europe. The ELLIS PhD Program has received funding from the European Union’s Horizon 2022 research and innovation programme under ELIAS Grant Agreement No. 101120237.
 
 ## What is EDS2024?
