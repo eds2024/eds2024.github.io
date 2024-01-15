@@ -21,17 +21,17 @@ avatar: /assets/images/eds.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: our_email
+  email: 
   facebook:
   flickr:
   github: 
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
-  twitter: if_we_tweet
+  rss: 
+  twitter: 
   stackoverflow: 
-  youtube: if_we_have_youtube
+  youtube: 
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
