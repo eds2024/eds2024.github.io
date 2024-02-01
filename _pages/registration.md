@@ -4,4 +4,4 @@ title: Registration
 permalink: /registration/
 ---
 
-TBA
+Registrations will open in April. More information coming soon!
