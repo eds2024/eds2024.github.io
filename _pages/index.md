@@ -12,13 +12,14 @@ The [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://e
 <div class="carousel">
   <div class="carousel-container" id="carouselContainer">
     <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/2400xauto/public/media/2020-01/couvent-cordeliers.jpg"></div>
+    <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/1536xauto/public/media/2020-01/CDL_Cloitre_galerie_2.JPEG"></div>
     <!-- Add more slides as needed -->
   </div>
 </div>
 
 <script>
   let currentIndex = 0;
-  const intervalTime = 3000; // Adjust the interval time in milliseconds
+  const intervalTime = 5000; // Adjust the interval time in milliseconds
 
   const carouselContainer = document.getElementById('carouselContainer');
   const totalSlides = document.querySelectorAll('.carousel-item').length;
