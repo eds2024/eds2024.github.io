@@ -12,6 +12,23 @@
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/images/eds_32x22.png">
     {% include analytics_head.html %}
+    <style>
+      .carousel {
+        display: flex;
+        overflow: hidden;
+        width: 300px; /* Adjust the width as needed */
+      }
+  
+      .carousel-container {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+      }
+  
+      .carousel-item {
+        flex: 0 0 auto;
+        width: 100%; /* Adjust the width as needed */
+      }
+    </style>
   </head>
 
   <body>
