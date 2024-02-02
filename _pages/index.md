@@ -11,7 +11,7 @@ The [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://e
 <section class="center-section">
   <div class="carousel">
     <div class="carousel-container" id="carouselContainer">
-      <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/2400xauto/public/media/2020-01/couvent-cordeliers.jpg"></div>
+      <!--<div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/2400xauto/public/media/2020-01/couvent-cordeliers.jpg"></div> REMOVED AS RESOLUTION TOO LOW-->
       <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/1536xauto/public/media/2020-01/CDL_Cloitre_galerie_2.JPEG"></div>
       <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/1536xauto/public/media/2020-01/CDL_Cloitre_jardin.JPEG"></div>
       <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/1536xauto/public/media/2020-01/CDL_Amphi_Farabeuf.JPEG"></div>
