@@ -7,6 +7,35 @@ permalink: /
 The [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) is a pan-European AI network of excellence which focuses on fundamental science, technical innovation and societal impact. Founded in 2018, ELLIS builds upon machine learning as the driver for modern AI and aims to secure Europe’s sovereignty in this competitive field by creating a multi-centric AI research laboratory. ELLIS has established 41 units in 16 different countries in Europe. It has also launched the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), one of Europe’s most competitive PhD programs which aims to foster and educate the best talent in machine learning and related research areas by pairing outstanding students with leading academic and industrial researchers across Europe. The ELLIS PhD Program has received funding from the European Union’s Horizon research and innovation programme under [ELIAS](https://elias-ai.eu/) Grant Agreement No. 101120237 (2023-2027) and from the Horizon Europe research and innovation programme under [ELISE](https://www.elise-ai.eu/) Grant Agreement No. 951847 (2020 – 2024).
 
 # What is EDS2024?
+
+
+<div class="carousel">
+  <div class="carousel-container" id="carouselContainer">
+    <div class="carousel-item"><img alt="" src="https://www.sorbonne-universite.fr/sites/default/files/styles/2400xauto/public/media/2020-01/couvent-cordeliers.jpg"></div>
+    <!-- Add more slides as needed -->
+  </div>
+</div>
+
+<script>
+  let currentIndex = 0;
+  const intervalTime = 3000; // Adjust the interval time in milliseconds
+
+  const carouselContainer = document.getElementById('carouselContainer');
+  const totalSlides = document.querySelectorAll('.carousel-item').length;
+
+  function nextSlide() {
+    currentIndex = (currentIndex + 1) % totalSlides;
+    updateCarousel();
+  }
+
+  function updateCarousel() {
+    const translateValue = -currentIndex * 100 + '%';
+    carouselContainer.style.transform = 'translateX(' + translateValue + ')';
+  }
+
+  setInterval(nextSlide, intervalTime);
+</script>
+
 The ELLIS Doctoral Symposium is an annual conference for [ELLIS PhD students](https://ellis.eu/phd-postdoc) and other PhD students to meet in person and share knowledge about machine learning. The ELLIS Doctoral Symposium 2024 (EDS2024) is the fourth edition, which is co-organised by the University of Tübingen and the Institut Polytechnique de Paris, and will be held in Paris, France. It is expected to host 150 attendees during one week from **Monday, August 26 - to Friday, August 30**. 
 
 The focus of this year’s symposium is **AI & Sustainability**.
