@@ -1,12 +1,13 @@
 ---
 layout: page
-title: What is ELLIS?
+title: ELLIS Doctoral Symposium 2024
 permalink: /
 ---
 
+## What is ELLIS?
 The [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/) is a pan-European AI network of excellence which focuses on fundamental science, technical innovation and societal impact. Founded in 2018, ELLIS builds upon machine learning as the driver for modern AI and aims to secure Europe’s sovereignty in this competitive field by creating a multi-centric AI research laboratory. ELLIS has established 41 units in 16 different countries in Europe. It has also launched the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), one of Europe’s most competitive PhD programs which aims to foster and educate the best talent in machine learning and related research areas by pairing outstanding students with leading academic and industrial researchers across Europe. The ELLIS PhD Program has received funding from the European Union’s Horizon research and innovation programme under [ELIAS](https://elias-ai.eu/) Grant Agreement No. 101120237 (2023-2027) and from the Horizon Europe research and innovation programme under [ELISE](https://www.elise-ai.eu/) Grant Agreement No. 951847 (2020 – 2024).
 
-# What is EDS2024?
+## What is EDS2024?
 
 <section class="center-section">
   <div class="carousel">
@@ -50,3 +51,9 @@ EDS2024 follows in the footsteps of the previous EDS iterations held in [Helsink
 Save the date and join us for **keynotes, poster & tooling sessions** and **social events** in the beautiful City of Light!
 
 Students requiring a short-stay visa for the event can apply [here](https://www.france-visas.gouv.fr/en/web/france-visas/home).
+
+## Who is organising the event?
+
+The Institut Polytechnique de Paris (IPP) is a world-class Institute of science and technology regrouping 5 prestigious French engineering Schools: École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris, Télécom SudParis.
+These schools have contributed to major industrial and technological breakthroughs over the last two centuries and use their respective expertise to develop competitive training programs and cutting-edge research.
+IPP has further established itself as a leader in education and research in France and internationally. Learn more on the website [here](https://www.ip-paris.fr/en)!
