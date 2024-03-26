@@ -3,8 +3,7 @@ layout: page
 title: Organisers
 permalink: /organisers/
 ---
-<!-- 
-<html lang="en"> -->
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,6 +13,7 @@ permalink: /organisers/
             display: inline-block;
             text-align: center;
             margin-right: 20px;
+            margin-bottom: 20px;
         }
         .organiser img {
             width: 150px;
@@ -28,12 +28,49 @@ permalink: /organisers/
             font-style: italic;
             font-size: smaller;
         }
+        h2 {
+            margin-top: 40px; /* Add margin top to create space between sections */
+        }
+        .university-logos {
+            text-align: center;
+            margin-top: 40px;
+        }
+        .university-logo {
+            width: 200px; /* Adjust the width of the logos */
+            margin-right: 20px; /* Adjust spacing between logos */
+        }
     </style>
 </head>
 <body>
-    <!-- <h1>Organisers</h1> -->
     <p> The event is organised by the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris (IPP)</a> with support from the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a> and <a href="https://ellis.eu/">ELLIS</a>. </p>
 <body>
+<h2>Coordinators</h2>
+<div class="organiser">
+        <a href="">
+            <img src="../assets/images_organisers/charlotte_delage.jpg" alt="Charlotte Delage">
+            <p>Charlotte Delage</p>
+        </a>
+            <p class="position">Scientific Coordinator</p>
+            <p class="company">Télécom Paris</p>
+    </div>
+<div class="organiser">
+        <a href="">
+            <img src="../assets/images_organisers/lynn.jpg" alt="Lynn Anthonissen">
+            <p>Lynn Anthonissen</p>
+        </a>
+            <p class="position">Scientific Coordinator</p>
+            <p class="company">University of Tübingen</p>
+    </div>
+<div class="organiser">
+        <a href="">
+            <img src="../assets/images_organisers/adela.jpeg" alt="Adela Pranindiati">
+            <p>Adela Pranindiati</p>
+        </a>
+            <p class="position">Industry Coordinator</p>
+            <p class="company">University of Amsterdam</p>
+    </div>
+
+<h2>Professors</h2>
 <div class="organiser">
         <a href="http://www.gpeyre.com">
             <img src="../assets/images_organisers/gpeyre.jpg" alt="Gabriel Peyré">
@@ -99,30 +136,8 @@ permalink: /organisers/
             <p class="position">Associate Professor</p>
             <p class="company">Télécom Paris</p>
     </div>
-<div class="organiser">
-        <a href="">
-            <img src="../assets/images_organisers/charlotte_delage.jpg" alt="Charlotte Delage">
-            <p>Charlotte Delage</p>
-        </a>
-            <p class="position">Scientific Coordinator</p>
-            <p class="company">Télécom Paris</p>
-    </div>
-<div class="organiser">
-        <a href="">
-            <img src="../assets/images_organisers/lynn.jpg" alt="Lynn Anthonissen">
-            <p>Lynn Anthonissen</p>
-        </a>
-            <p class="position">Scientific Coordinator</p>
-            <p class="company">University of Tübingen</p>
-    </div>
-<div class="organiser">
-        <a href="">
-            <img src="../assets/images_organisers/adela.jpeg" alt="Adela Pranindiati">
-            <p>Adela Pranindiati</p>
-        </a>
-            <p class="position">Scientific Coordinator</p>
-            <p class="company">University of Amsterdam</p>
-    </div>
+
+<h2>PhD Support Group</h2>
 <div class="organiser">
         <a href="https://ainagari.github.io">
             <img src="../assets/images_organisers/aina.jpg" alt="Aina Garí Soler">
@@ -180,4 +195,9 @@ permalink: /organisers/
             <p class="company">Université Paris-Saclay, Inria, CEA</p>
     </div>
 </body>
-<!-- </html> -->
+
+<div class="university-logos">
+    <img class="university-logo" src="../assets/images/eds.png" alt="EDS Paris">
+    <img class="university-logo" src="../assets/images/institut-polytechnique-de-paris-logo-vector-1.png" alt="IPP">
+    <img class="university-logo" src="../assets/images/UniversitaetTuebingen.png" alt="IPP">
+</div>
