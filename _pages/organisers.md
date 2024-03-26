@@ -37,7 +37,7 @@ permalink: /organisers/
         }
         .university-logo {
             /* width: 200px; Adjust the width of the logos */
-            height: 100px;
+            height: 130px;
             margin-right: 20px; /* Adjust spacing between logos */
         }
     </style>
