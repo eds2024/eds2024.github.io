@@ -153,7 +153,7 @@ permalink: /organisers/
             <p>Isaia Andrenacci</p>
         </a>
             <p class="position">PhD Student</p>
-            <p class="company">Nokia Bell Labs, Télécom Paris</p>
+            <p class="company">Nokia, Télécom Paris</p>
     </div>
 <div class="organiser">
         <a href="">
