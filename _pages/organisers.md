@@ -29,14 +29,15 @@ permalink: /organisers/
             font-size: smaller;
         }
         h2 {
-            margin-top: 40px; /* Add margin top to create space between sections */
+            margin-top: 20px; /* Add margin top to create space between sections */
         }
         .university-logos {
             text-align: center;
             margin-top: 40px;
         }
         .university-logo {
-            width: 200px; /* Adjust the width of the logos */
+            /* width: 200px; Adjust the width of the logos */
+            height: 100px;
             margin-right: 20px; /* Adjust spacing between logos */
         }
     </style>
@@ -199,5 +200,5 @@ permalink: /organisers/
 <div class="university-logos">
     <img class="university-logo" src="../assets/images/eds.png" alt="EDS Paris">
     <img class="university-logo" src="../assets/images/institut-polytechnique-de-paris-logo-vector-1.png" alt="IPP">
-    <img class="university-logo" src="../assets/images/UniversitaetTuebingen.png" alt="IPP">
+    <img class="university-logo" src="../assets/images/eberhard-karls-universitaet-tuebingen-vector-logo.png" alt="IPP">
 </div>
