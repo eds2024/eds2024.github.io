@@ -8,7 +8,7 @@ permalink: /organisers/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Organisers Page</title>
+<!--     <title>Organisers Page</title> -->
     <style>
         .organiser {
             display: inline-block;
@@ -43,7 +43,6 @@ permalink: /organisers/
             <p class="company">ENS, CNRS</p>
             <p></p>
     </div>
-</body>
 <div class="organiser">
         <a href="http://remi.flamary.com">
             <img src="../assets/images_organisers/remi.jpg" alt="Rémi Flamary">
@@ -52,7 +51,6 @@ permalink: /organisers/
             <p class="position">Full Professor</p>
             <p class="company">École Polytechnique</p>
     </div>
-</body>
     <div class="organiser">
         <a href="http://www.cmapx.polytechnique.fr/~karim.lounici/">
             <img src="../assets/images_organisers/karim.jpg" alt="Karim Lounici">
@@ -61,7 +59,6 @@ permalink: /organisers/
             <p class="position">Full Professor</p>
             <p class="company">École Polytechnique</p>
     </div>
-</body>
     <div class="organiser">
         <a href="https://perso.telecom-paristech.fr/fdalche/">
             <img src="../assets/images_organisers/florence.jpg" alt="Florence d'Alché-Buc">
@@ -70,7 +67,6 @@ permalink: /organisers/
             <p class="position">Full Professor</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="https://enzotarta.github.io">
             <img src="../assets/images_organisers/enzo.png" alt="Enzo Tartaglione">
@@ -79,7 +75,6 @@ permalink: /organisers/
             <p class="position">Associate Professor</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
     <div class="organiser">
         <a href="https://laclauc.github.io">
             <img src="../assets/images_organisers/charlotte_laclau.png" alt="Charlotte Laclau">
@@ -88,7 +83,6 @@ permalink: /organisers/
             <p class="position">Associate Professor</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
     <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/matthieu.png" alt="Matthieu Labeau">
@@ -97,8 +91,6 @@ permalink: /organisers/
             <p class="position">Associate Professor</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
-</body>
     <div class="organiser">
         <a href="https://ekhiru.github.io">
             <img src="../assets/images_organisers/ekhine.jpg" alt="Ekhine Irurozki">
@@ -107,7 +99,6 @@ permalink: /organisers/
             <p class="position">Associate Professor</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/charlotte_delage.jpg" alt="Charlotte Delage">
@@ -116,7 +107,6 @@ permalink: /organisers/
             <p class="position">Scientific Coordinator</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/lynn.jpg" alt="Lynn Anthonissen">
@@ -125,7 +115,6 @@ permalink: /organisers/
             <p class="position">Scientific Coordinator</p>
             <p class="company">University of Tübingen</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/adela.jpeg" alt="Adela Pranindiati">
@@ -134,7 +123,6 @@ permalink: /organisers/
             <p class="position">Scientific Coordinator</p>
             <p class="company">University of Amsterdam</p>
     </div>
-</body>
     <div class="organiser">
         <a href="https://ainagari.github.io">
             <img src="../assets/images_organisers/aina.jpg" alt="Aina Garí Soler">
@@ -143,7 +131,6 @@ permalink: /organisers/
             <p class="position">Postdoc</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="https://qbouniot.github.io">
             <img src="../assets/images_organisers/quentin.jpg" alt="Quentin Bouniot">
@@ -152,7 +139,6 @@ permalink: /organisers/
             <p class="position">Postdoc</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/mathilde.jpg" alt="Mathilde Perez">
@@ -161,7 +147,6 @@ permalink: /organisers/
             <p class="position">Research Engineer</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/Isaia.jpg" alt="Isaia Andrenacci">
@@ -170,7 +155,6 @@ permalink: /organisers/
             <p class="position">PhD Student</p>
             <p class="company">Nokia Bell Labs, Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/victor.jpeg" alt="Victor Quétu">
@@ -179,7 +163,6 @@ permalink: /organisers/
             <p class="position">PhD Student</p>
             <p class="company">Télécom Paris</p>
     </div>
-</body>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/gregoire.jpeg" alt="Grégoire Pacreau">
@@ -188,7 +171,6 @@ permalink: /organisers/
             <p class="position">PhD Student</p>
             <p class="company">École Polytechnique</p>
     </div>
-</body>
 <div class="organiser">
         <a href="https://tgnassou.github.io">
             <img src="../assets/images_organisers/theo.png" alt="Théo Gnassounou">
