@@ -3,8 +3,8 @@ layout: page
 title: Organisers
 permalink: /organisers/
 ---
-
-<html lang="en">
+<!-- 
+<html lang="en"> -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -180,4 +180,4 @@ permalink: /organisers/
             <p class="company">Université Paris-Saclay, Inria, CEA</p>
     </div>
 </body>
-</html>
+<!-- </html> -->
