@@ -8,7 +8,7 @@ permalink: /organisers/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>Organisers Page</title> -->
+    <title>Organisers</title>
     <style>
         .organiser {
             display: inline-block;
@@ -31,7 +31,7 @@ permalink: /organisers/
     </style>
 </head>
 <body>
-    <h1>Organisers</h1>
+<!--     <h1>Organisers</h1> -->
     <p> The event is organised by the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris (IPP)</a> with support from the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a> and <a href="https://ellis.eu/">ELLIS</a>. </p>
 <body>
 <div class="organiser">
