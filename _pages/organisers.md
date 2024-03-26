@@ -13,7 +13,7 @@ permalink: /organisers/
         .organiser {
             display: inline-block;
             text-align: center;
-            margin-right: 25px;
+            margin-right: 20px;
         }
         .organiser img {
             width: 150px;
