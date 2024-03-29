@@ -27,6 +27,9 @@ permalink: /organisers/
         .company {
             font-style: italic;
             font-size: smaller;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
         }
         h2 {
             margin-top: 20px; /* Add margin top to create space between sections */
@@ -34,9 +37,6 @@ permalink: /organisers/
         .university-logos {
             text-align: center;
             margin-top: 40px;
-            display: flex;
-            justify-content: center;
-            align-items: flex-end;
         }
         .university-logo {
             /* width: 200px; Adjust the width of the logos */
