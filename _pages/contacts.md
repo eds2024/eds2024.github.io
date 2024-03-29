@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-For any information, please contact <eds2024@telecom-paris.fr>.
+For any information, please contact (TBA)
 
 <!--<div class="image-container">
         <img src="/assets/images/ELIAS_LOGO.png" alt="Image 1">
