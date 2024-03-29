@@ -45,7 +45,7 @@ permalink: /organisers/
 <body>
     <p> The event is organised by the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris (IPP)</a> with support from the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a> and <a href="https://ellis.eu/">ELLIS</a>. </p>
 <body>
-<h2>organising Committee</h2>
+<h2>Organising Committee</h2>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/charlotte_delage.jpg" alt="Charlotte Delage">
