@@ -34,6 +34,9 @@ permalink: /organisers/
         .university-logos {
             text-align: center;
             margin-top: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
         }
         .university-logo {
             /* width: 200px; Adjust the width of the logos */
