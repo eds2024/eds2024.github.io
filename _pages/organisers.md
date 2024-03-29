@@ -45,7 +45,7 @@ permalink: /organisers/
 <body>
     <p> The event is organised by the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris (IPP)</a> with support from the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a> and <a href="https://ellis.eu/">ELLIS</a>. </p>
 <body>
-<h2>Coordinators</h2>
+<h2>organising Committee</h2>
 <div class="organiser">
         <a href="">
             <img src="../assets/images_organisers/charlotte_delage.jpg" alt="Charlotte Delage">
@@ -71,7 +71,7 @@ permalink: /organisers/
             <p class="company">University of Amsterdam</p>
     </div>
 
-<h2>Professors</h2>
+<h2>Scientific Committee</h2>
 <div class="organiser">
         <a href="http://www.gpeyre.com">
             <img src="../assets/images_organisers/gpeyre.jpg" alt="Gabriel Peyré">
@@ -91,7 +91,7 @@ permalink: /organisers/
     </div>
 <div class="organiser">
         <a href="http://www.cmapx.polytechnique.fr/~karim.lounici/">
-            <img src="../assets/images_organisers/karim.jpg" alt="Karim Lounici">
+            <img src="../assets/images_organisers/anonyme.jpeg" alt="Karim Lounici">
             <p>Karim Lounici</p>
         </a>
             <p class="position">Full Professor</p>
@@ -123,7 +123,7 @@ permalink: /organisers/
     </div>
 <div class="organiser">
         <a href="">
-            <img src="../assets/images_organisers/matthieu.png" alt="Matthieu Labeau">
+            <img src="../assets/images_organisers/anonyme.jpeg" alt="Matthieu Labeau">
             <p>Matthieu Labeau</p>
         </a>
             <p class="position">Associate Professor</p>
@@ -138,7 +138,7 @@ permalink: /organisers/
             <p class="company">Télécom Paris</p>
     </div>
 
-<h2>PhD Support Group</h2>
+<h2>Postdoc & PhD Support Group</h2>
 <div class="organiser">
         <a href="https://ainagari.github.io">
             <img src="../assets/images_organisers/aina.jpg" alt="Aina Garí Soler">
@@ -160,7 +160,7 @@ permalink: /organisers/
             <img src="../assets/images_organisers/mathilde.jpg" alt="Mathilde Perez">
             <p>Mathilde Perez</p>
         </a>
-            <p class="position">Research Engineer</p>
+            <p class="position">PhD Student</p>
             <p class="company">Télécom Paris</p>
     </div>
 <div class="organiser">
