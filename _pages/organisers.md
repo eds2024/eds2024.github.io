@@ -22,14 +22,30 @@ permalink: /organisers/
             object-fit: cover;
         }
         .position {
+            /* font-style: italic; */
+            /* font-size: smaller;
+            display: flex;
+            justify-content: center;*/
+            align-items: flex-end; 
+            width: 150px; /* Set the width to control the space under the picture */
+            /* display: inline-block; */
+            /* overflow: hidden; */
             font-size: smaller;
+            white-space: nowrap;
+            text-overflow: ellipsis;
         }
         .company {
             font-style: italic;
-            font-size: smaller;
+            /* font-size: smaller;
             display: flex;
-            justify-content: center;
-            align-items: flex-end;
+            justify-content: center;*/
+            align-items: flex-end; 
+            width: 150px; /* Set the width to control the space under the picture */
+            display: inline-block;
+            /* overflow: hidden; */
+            font-size: smaller;
+            white-space: nowrap;
+            text-overflow: ellipsis;
         }
         h2 {
             margin-top: 20px; /* Add margin top to create space between sections */
@@ -196,7 +212,7 @@ permalink: /organisers/
             <p>Théo Gnassounou</p>
         </a>
             <p class="position">PhD Student</p>
-            <p class="company">Université Paris-Saclay, Inria, CEA</p>
+            <span class="company">Université Paris-Saclay, Inria, CEA</span>
     </div>
 </body>
 
