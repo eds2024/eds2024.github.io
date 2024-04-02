@@ -6,7 +6,7 @@ permalink: /registration/
 
 Application timeline
 
-- April 2: First round of applications open
+- April 2: 
   
 - May 3: Applications close
   
