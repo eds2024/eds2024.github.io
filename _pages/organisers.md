@@ -26,7 +26,7 @@ permalink: /organisers/
             /* font-size: smaller;
             display: flex;*/
             justify-content: center;
-            align-items: flex-end; 
+            /* align-items: flex-end;  */
             width: 150px; /* Set the width to control the space under the picture */
             /* display: inline-block; */
             /* overflow: hidden; */
@@ -39,7 +39,7 @@ permalink: /organisers/
             /* font-size: smaller;
             display: flex;*/
             justify-content: center;
-            align-items: flex-end; 
+            /* align-items: flex-end;  */
             width: 150px; /* Set the width to control the space under the picture */
             display: inline-block;
             /* overflow: hidden; */
@@ -188,7 +188,7 @@ permalink: /organisers/
             <p>Isaia Andrenacci</p>
         </a>
             <p class="position">PhD Student</p>
-            <p class="company">Nokia, Télécom Paris</p>
+            <p class="company">Télécom Paris</p>
     </div>
 <div class="organiser">
         <a href="">
@@ -212,7 +212,7 @@ permalink: /organisers/
             <p>Théo Gnassounou</p>
         </a>
             <p class="position">PhD Student</p>
-            <span class="company">Université Paris-Saclay, Inria, CEA</span>
+            <span class="company">Université Paris-Saclay</span>
     </div>
 </body>
 
