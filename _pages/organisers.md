@@ -24,8 +24,8 @@ permalink: /organisers/
         .position {
             /* font-style: italic; */
             /* font-size: smaller;
-            display: flex;
-            justify-content: center;*/
+            display: flex;*/
+            justify-content: center;
             align-items: flex-end; 
             width: 150px; /* Set the width to control the space under the picture */
             /* display: inline-block; */
@@ -37,8 +37,8 @@ permalink: /organisers/
         .company {
             font-style: italic;
             /* font-size: smaller;
-            display: flex;
-            justify-content: center;*/
+            display: flex;*/
+            justify-content: center;
             align-items: flex-end; 
             width: 150px; /* Set the width to control the space under the picture */
             display: inline-block;
