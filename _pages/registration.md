@@ -6,7 +6,7 @@ permalink: /registration/
 
 Application timeline
 
-- April 2: First round of applications open
+- April 2: Applications now open! Register here: https://eds2024.dakini-pco.com/registration-76.php
   
 - May 3: Applications close
   
