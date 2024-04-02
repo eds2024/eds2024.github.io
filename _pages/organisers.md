@@ -212,7 +212,7 @@ permalink: /organisers/
             <p>Théo Gnassounou</p>
         </a>
             <p class="position">PhD Student</p>
-            <span class="company">Université Paris-Saclay</span>
+            <p class="company">Université Paris-Saclay</p>
     </div>
 </body>
 <div class="university-logos">
