@@ -6,7 +6,7 @@ permalink: /registration/
 
 Application timeline
 
-- April 2: Applications now open! Register <a href="https://eds2024.dakini-pco.com/registration-76.php">here</a>
+- April 2: 
   
 - May 3: Applications close
   
