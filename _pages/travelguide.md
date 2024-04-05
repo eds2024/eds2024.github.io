@@ -34,6 +34,7 @@ The symposium will take place in two different venues, les Cordeliers (in Paris)
 A shuttle service (Paris-Télécom) will be made available for the event on that day.
 
 ## Accommodation suggestions
-* [Jo and Joe]([https://www.joandjoe.com/paris-gentilly/en/](https://parisjetaime.com/convention/hebergement/jo-joe-paris-gentilly-pc134 "https://parisjetaime.com/convention/hebergement/jo-joe-paris-gentilly-pc134"))
-We recommend staying in the south of Paris (for example in the 14th district) or in close suburbs like Montrouge or Gentilly.
+<!-- * [Jo and Joe]([https://www.joandjoe.com/paris-gentilly/en/](https://parisjetaime.com/convention/hebergement/jo-joe-paris-gentilly-pc134 "https://parisjetaime.com/convention/hebergement/jo-joe-paris-gentilly-pc134")) -->
+* <a href="https://www.joandjoe.com/paris-gentilly/en/">Jo and Joe</a>
+* We recommend staying in the south of Paris (for example in the 14th district) or in close suburbs like Montrouge or Gentilly.
 We will provide a platform regrouping all participants which will allow you to discuss with fellow attendees or to find shared accommodation options, as they might be easier to find and less pricey.
