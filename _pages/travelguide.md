@@ -4,8 +4,6 @@ title: Travel Guide
 permalink: /travel_guide/
 ---
 
-# Travel information
-
 ## How to get to Paris?
 
 * By plane to one of the city airports (see [a summary of the ways to travel from the city to the different airports](https://www.ratp.fr/en/visite-paris/english/getting-train-stations-and-airports)):
