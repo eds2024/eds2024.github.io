@@ -30,21 +30,21 @@ permalink: /keynote_speakers/
 <div class="speaker">
         <img src="../assets/images_speakers/rita_cucchiara.jpg" alt="Rita Cucchiara">
         <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1">
-            <h2>Rita Cucchiara</h2>
+            <p>Rita Cucchiara</p>
         </a>
         <!-- <p>Description</p> -->
 </div>
 <div class="speaker">
         <img src="../assets/images_speakers/devis_tuia.jpg" alt="Devis Tuia">
         <a href="https://people.epfl.ch/devis.tuia">
-            <h2>Devis Tuia</h2>
+            <p>Devis Tuia</p>
         </a>
         <!-- <p>Description</p> -->
 </div>
 <div class="speaker">
         <img src="../assets/images_speakers/gael_varoquaux.jpg" alt="Gaël Varoquaux">
         <a href="https://gael-varoquaux.info/">
-            <h2>Gaël Varoquaux</h2>
+            <p>Gaël Varoquaux</p>
         </a>
         <!-- <p>Description</p> -->
 </div>
