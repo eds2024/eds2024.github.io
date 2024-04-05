@@ -36,14 +36,14 @@ TDB.
         </a>
         <!-- <p>Description</p> -->
 </div>
-<!-- <div class="speaker">
+<div class="speaker">
         <img src="../assets/images_speakers/devis_tuia.jpg" alt="Devis Tuia">
         <a href="https://people.epfl.ch/devis.tuia">
             <h2>Devis Tuia</h2>
-        </a> -->
+        </a>
         <!-- <p>Description</p> -->
-<!-- </div>
-<div class="speaker">
+</div>
+<!-- <div class="speaker">
         <img src="../assets/images_speakers/gael_varoquaux.jpg" alt="Gaël Varoquaux">
         <a href="https://gael-varoquaux.info/">
             <h2>Gaël Varoquaux</h2>
