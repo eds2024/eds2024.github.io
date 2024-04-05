@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Travel Guide
-permalink: /travel_guide/
+permalink: /travel/
 ---
 
 ## How to get to Paris?
