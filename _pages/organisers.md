@@ -62,7 +62,7 @@ permalink: /organisers/
     </style>
 </head>
 <body>
-    <p> The event is organised by the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris (IPP)</a> with support from the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a> (<a href="https://www.elise-ai.eu">ELISE</a>),<a href="https://ellis.eu/">ELLIS</a> and <a href="https://www.elsa-ai.eu/">ELSA</a>. </p>
+    <p> The event is organised by the <a href="https://www.ip-paris.fr/en">Institut Polytechnique de Paris (IPP)</a> with support from the <a href="https://uni-tuebingen.de/en/">University of Tübingen</a> (<a href="https://www.elise-ai.eu">ELISE</a>), <a href="https://ellis.eu/">ELLIS</a> and <a href="https://www.elsa-ai.eu/">ELSA</a>. </p>
 <body>
 <h2>Organising Committee</h2>
 <div class="organiser">
