@@ -6,7 +6,7 @@ permalink: /keynote_speakers/
 
 TDB.
 
-<!-- <head>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Keynote Speakers</title>
@@ -27,16 +27,16 @@ TDB.
             margin-bottom: 10px;
         }
     </style>
-</head> -->
+</head>
 <body>
-<!-- <div class="speaker">
+<div class="speaker">
         <img src="../assets/images_speakers/rita_cucchiara.jpg" alt="Rita Cucchiara">
         <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1">
             <h2>Rita Cucchiara</h2>
-        </a> -->
+        </a>
         <!-- <p>Description</p> -->
-<!-- </div>
-<div class="speaker">
+</div>
+<!-- <div class="speaker">
         <img src="../assets/images_speakers/devis_tuia.jpg" alt="Devis Tuia">
         <a href="https://people.epfl.ch/devis.tuia">
             <h2>Devis Tuia</h2>
