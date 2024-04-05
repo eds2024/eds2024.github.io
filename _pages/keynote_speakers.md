@@ -4,8 +4,6 @@ title: Keynote Speakers
 permalink: /keynote_speakers/
 ---
 
-TDB.
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,11 +41,11 @@ TDB.
         </a>
         <!-- <p>Description</p> -->
 </div>
-<!-- <div class="speaker">
+<div class="speaker">
         <img src="../assets/images_speakers/gael_varoquaux.jpg" alt="Gaël Varoquaux">
         <a href="https://gael-varoquaux.info/">
             <h2>Gaël Varoquaux</h2>
-        </a> -->
+        </a>
         <!-- <p>Description</p> -->
-<!-- </div>
-</body> -->
+</div>
+</body>
