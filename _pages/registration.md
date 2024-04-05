@@ -6,9 +6,9 @@ permalink: /registration/
 
 Application timeline
 
-- April 2: <strong>Applications are now open! Register <a href="https://eds2024.dakini-pco.com/registration-76.php">here</a>
+- April 2: <strong>Applications are now open! Register <a href="https://eds2024.dakini-pco.com/registration-76.php">here</a></strong>
 
-  (Please note that only ELLIS students/postdocs or students that have been conditionally accepted into the ELLIS PhD Program can apply for this round)</strong>
+  <strong>(Please note that only ELLIS students/postdocs or students that have been conditionally accepted into the ELLIS PhD Program can apply for this round)</strong>
   
 - May 3: Applications close
   
