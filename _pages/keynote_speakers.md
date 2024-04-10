@@ -12,7 +12,7 @@ permalink: /keynote_speakers/
         .speaker {
             display: inline-block;
             text-align: center;
-            margin-right: 20px;
+            margin-right: 10px;
             margin-bottom: 20px;
             width: 160px;
         }
@@ -23,7 +23,7 @@ permalink: /keynote_speakers/
             object-fit: cover;
         }
         .speaker h2 {
-            margin-bottom: 5px;
+            margin-bottom: 10px;
             font-size: smaller;
         }
     </style>
