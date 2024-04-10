@@ -15,15 +15,17 @@ permalink: /keynote_speakers/
             margin-right: 10px;
             margin-bottom: 20px;
             width: 160px;
+            vertical-align: top;
         }
         .speaker img {
             width: 150px;
             height: 200px;
             border-radius: 10%;
             object-fit: cover;
+            vertical-align: middle;
         }
         .speaker h2 {
-            margin-bottom: 10px;
+            margin-bottom: 5px;
             font-size: smaller;
         }
     </style>
