@@ -14,6 +14,7 @@ permalink: /keynote_speakers/
             text-align: center;
             margin-right: 20px;
             margin-bottom: 20px;
+            width: 160px;
         }
         .speaker img {
             width: 150px;
@@ -22,7 +23,8 @@ permalink: /keynote_speakers/
             object-fit: cover;
         }
         .speaker h2 {
-            margin-bottom: 10px;
+            margin-bottom: 5px;
+            font-size: smaller;
         }
     </style>
 </head>
