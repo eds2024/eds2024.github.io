@@ -48,4 +48,11 @@ permalink: /keynote_speakers/
         </a>
         <!-- <p>Description</p> -->
 </div>
+<div class="speaker">
+        <img src="../assets/images_speakers/caroline_therwath-chavier.jpeg" alt="Caroline Therwath-Chavier">
+        <a href="https://theallyance.one/team">
+            <p>Caroline Therwath-Chavier</p>
+        </a>
+        <!-- <p>Description</p> -->
+</div>
 </body>
