@@ -32,28 +32,28 @@ permalink: /keynote_speakers/
 <div class="speaker">
         <img src="../assets/images_speakers/rita_cucchiara.jpg" alt="Rita Cucchiara">
         <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1">
-            <p>Rita Cucchiara</p>
+            <h2>Rita Cucchiara</h2>
         </a>
         <!-- <p>Description</p> -->
 </div>
 <div class="speaker">
         <img src="../assets/images_speakers/devis_tuia.jpg" alt="Devis Tuia">
         <a href="https://people.epfl.ch/devis.tuia">
-            <p>Devis Tuia</p>
+            <h2>Devis Tuia</h2>
         </a>
         <!-- <p>Description</p> -->
 </div>
 <div class="speaker">
         <img src="../assets/images_speakers/gael_varoquaux.jpg" alt="Gaël Varoquaux">
         <a href="https://gael-varoquaux.info/">
-            <p>Gaël Varoquaux</p>
+            <h2>Gaël Varoquaux</h2>
         </a>
         <!-- <p>Description</p> -->
 </div>
 <div class="speaker">
         <img src="../assets/images_speakers/caroline_therwath-chavier.jpeg" alt="Caroline Therwath-Chavier">
         <a href="https://theallyance.one/team">
-            <p>Caroline Therwath-Chavier</p>
+            <h2>Caroline Therwath-Chavier</h2>
         </a>
         <!-- <p>Description</p> -->
 </div>
