@@ -72,7 +72,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <a href="https://gael-varoquaux.info/">
                     <h2>Gaël Varoquaux</h2>
                 </a>
-                <p>Bio: TBA.</p>
+                <p>TBA.</p>
                 <p>Title of the keynote: TBA.</p>
                 <p>Abstract: TBA.</p>
             </div>
@@ -83,7 +83,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <a href="https://theallyance.one/team">
                     <h2>Caroline Therwath-Chavier</h2>
                 </a>
-                <p>Bio: TBA.</p>
+                <p>TBA.</p>
                 <p>Title of the keynote: AI²: why Artificial Intelligence should be All Inclusive.</p>
                 <p>Abstract: In today’s rapidly evolving technological landscape, the transformative potential of Artificial Intelligence (AI) is undeniable. However, as AI continues to revolutionize various industries and aspects of our lives, questions of inclusivity and equity have come to the forefront for practitioners. This presentation delves into the imperative of making AI all-inclusive, ensuring that its benefits are accessible to all segments of society.
                 We will explore the ethical, social, and economic implications of AI exclusivity, emphasizing the need for diverse representation in AI development and deployment. Through case studies and real-world examples, we will highlight the tangible benefits of inclusive AI, from enhancing decision-making processes to fostering innovation and creativity.
