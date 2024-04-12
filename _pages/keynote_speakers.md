@@ -29,15 +29,16 @@ permalink: /keynote_speakers/
         }
         .speaker-info {
             flex: 1;
-            text-align: center;
         }
         .speaker-info h2 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             font-size: larger;
             margin-bottom: 5px;
-            text-align: center;
         }
         .speaker-info strong {
-            font-weight: bold; /* Apply bold font weight */
+            font-weight: bold; 
         }
         .speaker-info p {
             margin: 0;
