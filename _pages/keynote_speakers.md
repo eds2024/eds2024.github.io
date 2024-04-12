@@ -33,6 +33,7 @@ permalink: /keynote_speakers/
         .speaker-info h2 {
             font-size: larger;
             margin-bottom: 5px;
+            text-align: center;
         }
         .speaker-info p {
             margin: 0;
