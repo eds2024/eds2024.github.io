@@ -29,15 +29,20 @@ permalink: /keynote_speakers/
         }
         .speaker-info {
             flex: 1;
+            text-align: center;
         }
         .speaker-info h2 {
             font-size: larger;
             margin-bottom: 5px;
             text-align: center;
         }
+        .speaker-info strong {
+            font-weight: bold; /* Apply bold font weight */
+        }
         .speaker-info p {
             margin: 0;
             font-size: smaller;
+            text-align: left;
         }
     </style>
 </head>
@@ -45,28 +50,28 @@ Below are the speakers who confirmed their participation in EDS2024.
 
 <body>
     <div class="speaker-container">
-        <div class="speaker">
-            <img src="../assets/images_speakers/rita_cucchiara.jpg" alt="Rita Cucchiara">
-            <div class="speaker-info">
-                <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1">
-                    <h2>Rita Cucchiara</h2>
-                </a>
-                <p>TBA.</p>
-                <p>Title of the keynote: TBA.</p>
-                <p>Abstract: TBA.</p>
-            </div>
+    <div class="speaker">
+        <img src="../assets/images_speakers/rita_cucchiara.jpg" alt="Rita Cucchiara">
+        <div class="speaker-info">
+            <a href="https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=1">
+                <h2>Rita Cucchiara</h2>
+            </a>
+            <p>TBA.</p>
+            <p><strong>Title of the keynote: TBA.</strong></p>
+            <p>Abstract: TBA.</p>
         </div>
-        <div class="speaker">
-            <img src="../assets/images_speakers/devis_tuia.jpg" alt="Devis Tuia">
-            <div class="speaker-info">
-                <a href="https://people.epfl.ch/devis.tuia">
-                    <h2>Devis Tuia</h2>
-                </a>
-                <p>Devis completed his PhD at University of Lausanne, Switzerland, where   he studied kernel methods for hyperspectral satellite data. He then traveled the world as a postdoc, first at University of València, then at CU Boulder and finally back to EPFL. In 2014, he became assistant professor at University of Zurich, and in 2017 he moved to Wageningen University in the Netherlands, where he was chair of the Geo-Information Science and Remote Sensing Laboratory. Since September 2020, he is back to EPFL, where he leads the Environmental Computational Science and Earth Observation laboratory (ECEO) in Sion. There, he studies the Earth from above with machine learning and computer vision.</p>
-                <p>Title of the keynote: TBA.</p>
-                <p>Abstract: TBA.</p>
-            </div>
+    </div>
+    <div class="speaker">
+        <img src="../assets/images_speakers/devis_tuia.jpg" alt="Devis Tuia">
+        <div class="speaker-info">
+            <a href="https://people.epfl.ch/devis.tuia">
+                <h2>Devis Tuia</h2>
+            </a>
+            <p>Devis completed his PhD at University of Lausanne, Switzerland, where   he studied kernel methods for hyperspectral satellite data. He then traveled the world as a postdoc, first at University of València, then at CU Boulder and finally back to EPFL. In 2014, he became assistant professor at University of Zurich, and in 2017 he moved to Wageningen University in the Netherlands, where he was chair of the Geo-Information Science and Remote Sensing Laboratory. Since September 2020, he is back to EPFL, where he leads the Environmental Computational Science and Earth Observation laboratory (ECEO) in Sion. There, he studies the Earth from above with machine learning and computer vision.</p>
+            <p><strong>Title of the keynote: TBA.</strong></p>
+            <p>Abstract: TBA.</p>
         </div>
+    </div>
         <div class="speaker">
             <img src="../assets/images_speakers/gael_varoquaux.jpg" alt="Gaël Varoquaux">
             <div class="speaker-info">
@@ -74,7 +79,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                     <h2>Gaël Varoquaux</h2>
                 </a>
                 <p>TBA.</p>
-                <p>Title of the keynote: TBA.</p>
+                <p><strong>Title of the keynote: TBA.</strong></p>
                 <p>Abstract: TBA.</p>
             </div>
         </div>
@@ -85,7 +90,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                     <h2>Caroline Therwath-Chavier</h2>
                 </a>
                 <p>TBA.</p>
-                <p>Title of the keynote: AI²: why Artificial Intelligence should be All Inclusive.</p>
+                <p><strong>Title of the keynote: AI²: why Artificial Intelligence should be All Inclusive.</strong></p>
                 <p>Abstract: In today’s rapidly evolving technological landscape, the transformative potential of Artificial Intelligence (AI) is undeniable. However, as AI continues to revolutionize various industries and aspects of our lives, questions of inclusivity and equity have come to the forefront for practitioners. This presentation delves into the imperative of making AI all-inclusive, ensuring that its benefits are accessible to all segments of society.
                 We will explore the ethical, social, and economic implications of AI exclusivity, emphasizing the need for diverse representation in AI development and deployment. Through case studies and real-world examples, we will highlight the tangible benefits of inclusive AI, from enhancing decision-making processes to fostering innovation and creativity.
                 Moreover, the presentation will address the challenges and barriers to achieving inclusivity in AI, including biases in algorithms, lack of diversity in AI teams, and digital divides. By identifying these obstacles, we can formulate strategies to overcome them and create a more equitable AI ecosystem.
