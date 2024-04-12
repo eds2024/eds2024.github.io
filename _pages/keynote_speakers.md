@@ -91,7 +91,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                     <h2>Caroline Therwath-Chavier</h2>
                 </a>
                 <!-- <p>TBA.</p> -->
-                <p><strong>Title of the keynote: AI²: why Artificial Intelligence should be All Inclusive.</strong></p>
+                <p><strong>AI²: why Artificial Intelligence should be All Inclusive.</strong></p>
                 <p>Abstract: In today’s rapidly evolving technological landscape, the transformative potential of Artificial Intelligence (AI) is undeniable. However, as AI continues to revolutionize various industries and aspects of our lives, questions of inclusivity and equity have come to the forefront for practitioners. This presentation delves into the imperative of making AI all-inclusive, ensuring that its benefits are accessible to all segments of society.
                 We will explore the ethical, social, and economic implications of AI exclusivity, emphasizing the need for diverse representation in AI development and deployment. Through case studies and real-world examples, we will highlight the tangible benefits of inclusive AI, from enhancing decision-making processes to fostering innovation and creativity.
                 Moreover, the presentation will address the challenges and barriers to achieving inclusivity in AI, including biases in algorithms, lack of diversity in AI teams, and digital divides. By identifying these obstacles, we can formulate strategies to overcome them and create a more equitable AI ecosystem.
