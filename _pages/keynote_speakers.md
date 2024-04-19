@@ -98,7 +98,7 @@ Below are the speakers who confirmed their participation in EDS2024.
 Ultimately, AI² advocates for a future where Artificial Intelligence is not only powerful and innovative but also inclusive and accessible to everyone. By embracing diversity and promoting inclusion, we can harness the full potential of AI to address pressing societal challenges and build a better world for all.</p>
 
                     
-<p><em>Caroline is also the co-founder of <a href="https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/">the Paris meetup chapter of Women in Machine Learning and Data Science (WiMLDS)</a>, click on the link for more information about this group.</em></p>
+<p><em>Caroline is also the co-founder of <a href="https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/">the Paris meetup chapter of Women in Machine Learning and Data Science (WiMLDS)</a>, click on the link for more information!</em></p>
             </div>
         </div>
     </div>
