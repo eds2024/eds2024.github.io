@@ -95,7 +95,9 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <p>Abstract: In today’s rapidly evolving technological landscape, the transformative potential of Artificial Intelligence (AI) is undeniable. However, as AI continues to revolutionize various industries and aspects of our lives, questions of inclusivity and equity have come to the forefront for practitioners. This presentation delves into the imperative of making AI all-inclusive, ensuring that its benefits are accessible to all segments of society.
                 We will explore the ethical, social, and economic implications of AI exclusivity, emphasizing the need for diverse representation in AI development and deployment. Through case studies and real-world examples, we will highlight the tangible benefits of inclusive AI, from enhancing decision-making processes to fostering innovation and creativity.
                 Moreover, the presentation will address the challenges and barriers to achieving inclusivity in AI, including biases in algorithms, lack of diversity in AI teams, and digital divides. By identifying these obstacles, we can formulate strategies to overcome them and create a more equitable AI ecosystem.
-Ultimately, AI² advocates for a future where Artificial Intelligence is not only powerful and innovative but also inclusive and accessible to everyone. By embracing diversity and promoting inclusion, we can harness the full potential of AI to address pressing societal challenges and build a better world for all.</p>
+Ultimately, AI² advocates for a future where Artificial Intelligence is not only powerful and innovative but also inclusive and accessible to everyone. By embracing diversity and promoting inclusion, we can harness the full potential of AI to address pressing societal challenges and build a better world for all.
+                    
+                <em>Caroline is the co-founder of <a href="https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/">the Paris meetup chapter of Women in Machine Learning and Data Science (WiMLDS)</a></em></p>
             </div>
         </div>
     </div>
