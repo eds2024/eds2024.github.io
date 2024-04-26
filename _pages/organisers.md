@@ -217,6 +217,6 @@ permalink: /organisers/
 </body>
 <div class="university-logos">
     <img class="university-logo" src="../assets/images/ellis-logo_horizontal_black_2023-PARIS.png" alt="EDS Paris">
-    <img class="university-logo" src="../assets/images/institut-polytechnique-de-paris-logo-vector-1.png" alt="IPP">
-    <img class="university-logo" src="../assets/images/eberhard-karls-universitaet-tuebingen-vector-logo.png" alt="IPP">
+    <img class="university-logo" src="../assets/images/institut-polytechnique-de-paris-logo-vector-1.png" alt="IP Paris">
+    <img class="university-logo" src="../assets/images/university-of-amsterdam.png" alt="University of Amsterdam">
 </div>
