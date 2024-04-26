@@ -65,7 +65,7 @@ The [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://e
   setInterval(nextSlide, intervalTime);
 </script>
 
-The ELLIS Doctoral Symposium is an annual conference for [ELLIS PhD students](https://ellis.eu/phd-postdoc) and other PhD students to meet in person and share knowledge about machine learning. The ELLIS Doctoral Symposium 2024 (EDS2024) is the fourth edition, which is co-organised by the University of Tübingen, [ELSA](https://www.elsa-ai.eu) and the Institut Polytechnique de Paris, and will be held in Paris, France. It is expected to host 150 attendees during one week from **Monday, August 26 - to Friday, August 30**. 
+The ELLIS Doctoral Symposium is an annual conference for [ELLIS PhD students](https://ellis.eu/phd-postdoc) and other PhD students to meet in person and share knowledge about machine learning. The ELLIS Doctoral Symposium 2024 (EDS2024) is the fourth edition, which is co-organised by the University of Amsterdam, [ELSA](https://www.elsa-ai.eu) and the Institut Polytechnique de Paris, and will be held in Paris, France. It is expected to host 150 attendees during one week from **Monday, August 26 - to Friday, August 30**. 
 
 The focus of this year’s symposium is **AI & Sustainability**.
 
