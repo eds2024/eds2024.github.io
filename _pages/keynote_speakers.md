@@ -83,10 +83,10 @@ Below are the speakers who confirmed their participation in EDS2024.
         </div>
         <div class="speaker-container">
     <div class="speaker">
-        <img src="../assets/images_speakers/rolnick_square.jpg" alt="Rolnick Square">
+        <img src="../assets/images_speakers/rolnick_square.jpg" alt="Rolnick David">
         <div class="speaker-info">
             <a href="https://davidrolnick.com/">
-                <h2>Rolnick Square</h2>
+                <h2>Rolnick David</h2>
             </a>
             <p><strong>Title of the keynote: TBA.</strong></p>
             <p>Abstract: TBA.</p>
