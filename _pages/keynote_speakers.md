@@ -81,6 +81,17 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <p>Abstract: TBA.</p>
             </div>
         </div>
+        <div class="speaker-container">
+    <div class="speaker">
+        <img src="../assets/images_speakers/rolnick_square.jpg" alt="Rolnick Square">
+        <div class="speaker-info">
+            <a href="https://davidrolnick.com/">
+                <h2>Rolnick Square</h2>
+            </a>
+            <p><strong>Title of the keynote: TBA.</strong></p>
+            <p>Abstract: TBA.</p>
+        </div>
+    </div>
         <div class="speaker">
             <img src="../assets/images_speakers/caroline_therwath-chavier.jpeg" alt="Caroline Therwath-Chavier">
             <div class="speaker-info">
