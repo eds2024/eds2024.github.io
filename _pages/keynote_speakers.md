@@ -61,7 +61,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <!-- <h2>Rita Cucchiara </h2> -->
                 <h2>Rita Cucchiara (Università degli Studi di Modena e Reggio Emilia)</h2>
                 <!-- <h2> Rita Cucchiara -->
-            </a></h2>
+            </a>
             <p><strong>Title of the keynote: TBA.</strong></p>
             <p>Abstract: TBA.</p>
         </div>
