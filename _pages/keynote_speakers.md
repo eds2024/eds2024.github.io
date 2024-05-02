@@ -107,4 +107,4 @@ Ultimately, AI² advocates for a future where Artificial Intelligence is not onl
             </div>
         </div>
     </div>
-</body>
+<!-- </body> -->
