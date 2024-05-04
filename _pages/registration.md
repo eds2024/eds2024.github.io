@@ -6,11 +6,11 @@ permalink: /registration/
 
 Application timeline
 
-- April 2: <strike>Applications are now open!
+- <strike>April 2: Applications are now open!</strike>
 
-  (Please note that only ELLIS students/postdocs or students that have been conditionally accepted into the ELLIS PhD Program can apply for this round)
+  <strike>(Please note that only ELLIS students/postdocs or students that have been conditionally accepted into the ELLIS PhD Program can apply for this round)</strike>
   
-- May 3: Applications close</strike>
+- <strike>May 3: Applications close</strike>
   
 - May 22: Acceptance emails are sent to eligible applicants (with payment instructions) + second round of applications opens
 
