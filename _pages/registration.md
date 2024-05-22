@@ -12,9 +12,9 @@ Application timeline
   
 - <strike>May 3: Applications close</strike>
   
-- May 22: Acceptance emails are sent to eligible applicants (with payment instructions) + second round of applications opens
+- May 22: Acceptance emails are being sent to the first batch of eligible applicants today, with payment instructions following shortly.
 
-  (Please apply during this round if you are a non-ELLIS participant)
+  <strong>The second round of applications is now open!</strong> Non-ELLIS participants are also encouraged to apply. <strong>Register <a href="https://eds2024.dakini-pco.com/registration-76.php">here</a></strong>
   
 - June 5: Second round closes
 
