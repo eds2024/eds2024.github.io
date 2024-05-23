@@ -24,7 +24,7 @@ permalink: /faq/
     <summary>When will I hear the results of my admission?</summary>
     <p>You can find the day of notification on the <a href="https://eds2024.github.io/registration/" target="_blank">registration page</a>.</p>
 </details>
- 
+
 <details class="faq-item">
     <summary>Is there a registration fee?</summary>
     <p>Yes, the registration fee is 150 €.</p>
