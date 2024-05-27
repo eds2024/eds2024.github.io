@@ -96,7 +96,7 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <!-- <h2>David Rolnick </h2> -->
                 <h2>David Rolnick (McGill University and Mila – Quebec AI Institute)</h2>
             </a>
-            <p><strong>Title of the keynote: Tackling climate change with machine learning: An opportunity for application-driven innovation</strong></p>
+            <p><strong>Title of the keynote: Tackling climate change with machine learning: An opportunity for application-driven innovation.</strong></p>
             <p>Abstract: Machine learning is increasingly being called upon to help address climate change, from processing satellite imagery to modeling Earth systems. Such settings represent an important frontier for machine learning innovation, where traditional paradigms of large, general-purpose datasets and models often fall short. In this talk, we show how an application-driven paradigm for algorithm design can respond to problem-specific goals and incorporate relevant domain knowledge. We introduce novel techniques that leverage the structure of the problem (such as physical constraints and multi-modal self-supervision) to improve accuracy and usability across applications, including monitoring land use with remote sensing, designing chemical catalysts for the energy transition, and downscaling climate data. </p>
         </div>
     </div>
