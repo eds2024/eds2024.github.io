@@ -84,8 +84,8 @@ Below are the speakers who confirmed their participation in EDS2024.
                     <!-- <h2>Gaël Varoquaux</h2> -->
                     <h2>Gaël Varoquaux (Inria Saclay)</h2>
                 </a>
-                <p><strong>Title of the keynote: TBA.</strong></p>
-                <p>Abstract: TBA.</p>
+                <p><strong>Title of the keynote: AI from tabular data to healthcare and society.</strong></p>
+                <p>Abstract: I will talk about some lessons learned trying to develop AI for tabular data, central to all organizations, with the goal of being useful for healthcare and society. While much of the excitement is on machine learning, much of the work happens before and after. For tabular data, the bread and butter of every organization, extensive manual transformation or "data wrangling" is required before machine learning. I will discuss how we progressively rethought this process, eventually laying the ground of foundation models for tabular data. I will then discuss some considerations about machine learning in healthcare, and a broader picture on AI developments in society.</p>
             </div>
         </div>
         <div class="speaker-container">
@@ -96,8 +96,8 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <!-- <h2>David Rolnick </h2> -->
                 <h2>David Rolnick (McGill University and Mila – Quebec AI Institute)</h2>
             </a>
-            <p><strong>Title of the keynote: TBA.</strong></p>
-            <p>Abstract: TBA.</p>
+            <p><strong>Title of the keynote: Tackling climate change with machine learning: An opportunity for application-driven innovation</strong></p>
+            <p>Abstract: Machine learning is increasingly being called upon to help address climate change, from processing satellite imagery to modeling Earth systems. Such settings represent an important frontier for machine learning innovation, where traditional paradigms of large, general-purpose datasets and models often fall short. In this talk, we show how an application-driven paradigm for algorithm design can respond to problem-specific goals and incorporate relevant domain knowledge. We introduce novel techniques that leverage the structure of the problem (such as physical constraints and multi-modal self-supervision) to improve accuracy and usability across applications, including monitoring land use with remote sensing, designing chemical catalysts for the energy transition, and downscaling climate data. </p>
         </div>
     </div>
         <div class="speaker">
