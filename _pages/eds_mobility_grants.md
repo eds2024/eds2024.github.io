@@ -12,6 +12,6 @@ If you have been accepted into the symposium, travel to the EDS24 in Paris by ap
 
 - Sponsor grant: G-Research, one of our silver sponsors for this event, is offering a Mobility grant of 4000 euros which will cover the travel and accommodation funds of selected applicants. Interested participants should contact Charles Martinez (charles.martinez@gresearch.com) with their current CV and a short cover letter motivating their reasons for attending the event. The email title should be:  "Request for EDS ELLIS travel fund".
 
-- ELIAS: for participants employed by an ELIAS Beneficiary (see list in the terms and conditions). Limited funding is also available for non-ELIAS beneficiaries. Apply <a href="https://elias-ai.eu/event/ellis-doctoral-symposium-eds2024-ai-sustainability/">here</a>.
+- ELIAS: for participants employed by an ELIAS Beneficiary (see list in the terms and conditions). Limited funding is also available for non-ELIAS Beneficiaries. Apply <a href="https://elias-ai.eu/event/ellis-doctoral-symposium-eds2024-ai-sustainability/">here</a>.
 
 <strong>*Please note that double funding is not allowed.</strong>
