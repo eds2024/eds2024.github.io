@@ -14,11 +14,11 @@ Application timeline
   
 - <strike>May 22: Acceptance emails have been sent to the first batch of eligible applicants, payment instructions will follow shortly.
 
-  The second round of applications is now open!</strong> Non-ELLIS participants are also encouraged to apply.</strike>
+  The second round of applications is now open! Non-ELLIS participants are also encouraged to apply.</strike>
   
-- <strong>June 5: Second round closes</strong>
+- <strike>June 5: Second round closes</strike>
 
-- June 14: Acceptance emails are sent to eligible applicants (with payment instructions)
+- <strong>June 14: Acceptance emails are sent to eligible applicants (with payment instructions - you will receive en email from DAKINIPCO)</strong>
 
 - June 30: Deadline for payment (first and second round)
 
