@@ -18,7 +18,7 @@ Application timeline
   
 - <strike>June 5: Second round closes</strike>
 
-- <strong>June 14: Acceptance emails are sent to eligible applicants (with payment instructions - you will receive en email from DAKINIPCO)</strong>
+- <strong>June 14: Acceptance emails are sent to eligible applicants (with payment instructions - you will receive an email from DAKINIPCO).</strong> If you encounter any issue or don't receive an email, please contact us immediately at  eds24-help@telecom-paris.fr
 
 - June 30: Deadline for payment (first and second round)
 
