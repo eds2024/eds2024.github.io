@@ -62,8 +62,12 @@ Below are the speakers who confirmed their participation in EDS2024.
                 <h2>Rita Cucchiara (Università degli Studi di Modena e Reggio Emilia)</h2>
                 <!-- <h2> Rita Cucchiara -->
             </a>
-            <p><strong>Title of the keynote: TBA.</strong></p>
-            <p>Abstract: TBA.</p>
+            <p><strong>Title of the keynote: Learning, Unlearning, and Relearning.</strong></p>
+            <p>Abstract: The concept of "Learning, Unlearning, and Relearning" encapsulates a dynamic approach to knowledge acquisition and adaptation, crucial for both human cognition and artificial intelligence systems. Learning involves acquiring new information or skills, while unlearning refers to the process of discarding outdated or erroneous knowledge, and relearning entails reacquiring knowledge in a new or updated form. This process is not merely about forgetting but about restructuring understanding to accommodate new insights and perspectives.
+In machine learning and computer vision, unlearning presents unique challenges and opportunities. Machine unlearning refers to the ability to remove specific data from a model without degrading its overall performance. This capability is essential for addressing legal, ethical, and personalization issues. Techniques for unlearning in AI include the removal of data points, features, classes, or entire concepts from datasets. These methods aim to maintain model utility while ensuring the elimination of unwanted or harmful knowledge.
+Emerging methods in machine unlearning, such as weight filtering and low-rank class-wise unlearning, demonstrate promising results in maintaining model integrity while achieving desired unlearning outcomes. These techniques are evaluated through various metrics, including accuracy retention, activation distance, and Zero Retain Forgetting (ZRF) scores. Additionally, unlearning in multimodal spaces addresses the removal of sensitive or inappropriate content, enhancing the safety and ethical alignment of AI systems.
+The exploration of unlearning, especially in AI, paves the way for more robust, adaptable, and ethically sound models, capable of evolving in response to new data and societal norms. This ongoing research underscores the importance of unlearning and relearning as foundational components of both human and artificial intelligence development. During the seminar,  some results carried out at UNIMORE within the EU project ELIAS will be presented and discussed.
+</p>
         </div>
     </div>
     <div class="speaker">
