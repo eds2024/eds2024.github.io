@@ -110,7 +110,7 @@ permalink: /organisers/
     </div>
 <div class="organiser">
         <a href="http://www.cmapx.polytechnique.fr/~karim.lounici/">
-            <img src="../assets/images_organisers/anonyme.jpeg" alt="Karim Lounici">
+            <img src="../assets/images_organisers/karim.png" alt="Karim Lounici">
             <p>Karim Lounici</p>
         </a>
             <p class="position">Full Professor</p>
