@@ -142,7 +142,7 @@ permalink: /organisers/
     </div>
 <div class="organiser">
         <a href="">
-            <img src="../assets/images_organisers/anonyme.jpeg" alt="Matthieu Labeau">
+            <img src="../assets/images_organisers/LABEAU_Matthieu.jpg" alt="Matthieu Labeau">
             <p>Matthieu Labeau</p>
         </a>
             <p class="position">Associate Professor</p>
