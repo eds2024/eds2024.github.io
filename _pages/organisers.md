@@ -90,7 +90,7 @@ permalink: /organisers/
             <p class="company">University of Amsterdam</p>
     </div>
 
-<h2>Scientific Committee</h2>
+<h2>Scientific Committee </h2>
 <div class="organiser">
         <a href="http://www.gpeyre.com">
             <img src="../assets/images_organisers/gpeyre.jpg" alt="Gabriel Peyré">
