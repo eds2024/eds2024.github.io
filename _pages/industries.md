@@ -12,7 +12,7 @@ permalink: /industries/
           padding: 20px; /* Optional: Adds some padding around the container */
       }
       .industry-image {
-          max-width: 300px; /* Set a maximum width */
+          max-width: 150px; /* Set a maximum width */
           height: auto; /* Maintain aspect ratio */
           margin: 10px; /* Add space around each image */
       }
