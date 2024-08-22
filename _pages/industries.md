@@ -24,6 +24,7 @@ permalink: /industries/
         <img src="../assets/images/baalbek.png" alt="Industry 2" class="industry-image">
         <img src="../assets/images/GR.png" alt="Industry 3" class="industry-image">
         <img src="../assets/images/Hi-PARIS.png" alt="Industry 4" class="industry-image">
+        <img src="../assets/images/ideas.png" alt="Industry 9" class="industry-image">
         <img src="../assets/images/justai.png" alt="Industry 5" class="industry-image">
         <img src="../assets/images/novartis.png" alt="Industry 6" class="industry-image">
         <img src="../assets/images/RENAULT.jpg" alt="Industry 7" class="industry-image">
