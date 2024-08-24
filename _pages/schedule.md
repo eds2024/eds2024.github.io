@@ -114,14 +114,12 @@ permalink: /schedule/
 <details class="faq-item">
     <summary>10:30 – 11:00</summary>
     Claire Robin (ELLIS PhD student – Max-Planck Gesellschaft) – <b>EarthNet: Bringing biogeoscience and machine learning together <b>AI & Sustainability as an Industry Player</b>
-    
 </details>
 
 <details class="faq-item">
     <summary>11:00 – 12:30</summary>
    <p>Keynote address</p>
     <p> Rita Cucchiara (UNIMORE, ELLIS Unit Modena) - <b>Learning, Unlearning, and Relearning</b></p>
-  
   <p>Abstract: The concept of "Learning, Unlearning, and Relearning" encapsulates a dynamic approach to knowledge acquisition and adaptation, crucial for both human cognition and artificial intelligence systems. Learning involves acquiring new information or skills, while unlearning refers to the process of discarding outdated or erroneous knowledge, and relearning entails reacquiring knowledge in a new or updated form. This process is not merely about forgetting but about restructuring understanding to accommodate new insights and perspectives. In machine learning and computer vision, unlearning presents unique challenges and opportunities. Machine unlearning refers to the ability to remove specific data from a model without degrading its overall performance. This capability is essential for addressing legal, ethical, and personalization issues. Techniques for unlearning in AI include the removal of data points, features, classes, or entire concepts from datasets. These methods aim to maintain model utility while ensuring the elimination of unwanted or harmful knowledge. Emerging methods in machine unlearning, such as weight filtering and low-rank class-wise unlearning, demonstrate promising results in maintaining model integrity while achieving desired unlearning outcomes. These techniques are evaluated through various metrics, including accuracy retention, activation distance, and Zero Retain Forgetting (ZRF) scores. Additionally, unlearning in multimodal spaces addresses the removal of sensitive or inappropriate content, enhancing the safety and ethical alignment of AI systems. The exploration of unlearning, especially in AI, paves the way for more robust, adaptable, and ethically sound models, capable of evolving in response to new data and societal norms. This ongoing research underscores the importance of unlearning and relearning as foundational components of both human and artificial intelligence development. During the seminar, some results carried out at UNIMORE within the EU project ELIAS will be presented and discussed.</p>
 </details>
 
@@ -146,7 +144,6 @@ permalink: /schedule/
     <summary>16:00 – 17:30</summary>
     <p>Keynote address</p>
     <p>Caroline Therwath-Chavier (The Allyance) - <b>AI²: why Artificial Intelligence should be All Inclusive</b></p>
-  
   <p>Abstract: In today’s rapidly evolving technological landscape, the transformative potential of Artificial Intelligence (AI) is undeniable. However, as AI continues to revolutionize various industries and aspects of our lives, questions of inclusivity and equity have come to the forefront for practitioners. This presentation delves into the imperative of making AI all-inclusive, ensuring that its benefits are accessible to all segments of society. We will explore the ethical, social, and economic implications of AI exclusivity, emphasizing the need for diverse representation in AI development and deployment. Through case studies and real-world examples, we will highlight the tangible benefits of inclusive AI, from enhancing decision-making processes to fostering innovation and creativity. Moreover, the presentation will address the challenges and barriers to achieving inclusivity in AI, including biases in algorithms, lack of diversity in AI teams, and digital divides. By identifying these obstacles, we can formulate strategies to overcome them and create a more equitable AI ecosystem. Ultimately, AI² advocates for a future where Artificial Intelligence is not only powerful and innovative but also inclusive and accessible to everyone. By embracing diversity and promoting inclusion, we can harness the full potential of AI to address pressing societal challenges and build a better world for all.</p>
 </details>
 </div>
@@ -165,7 +162,6 @@ permalink: /schedule/
     <summary>9:30 – 11:00</summary>
    <p>Keynote address</p>
     <p> Gaël Varoquaux (INRIA Saclay) - <b>AI from tabular data to healthcare and society</b></p>
-  
   <p>Abstract: I will talk about some lessons learned trying to develop AI for tabular data, central to all organizations, with the goal of being useful for healthcare and society. While much of the excitement is on machine learning, much of the work happens before and after. For tabular data, the bread and butter of every organization, extensive manual transformation or "data wrangling" is required before machine learning. I will discuss how we progressively rethought this process, eventually laying the ground of foundation models for tabular data. I will then discuss some considerations about machine learning in healthcare, and a broader picture on AI developments in society.</p>
 </details>
 
