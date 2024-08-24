@@ -55,11 +55,16 @@ permalink: /industries/
           height: auto; /* Maintain aspect ratio */
           margin: 10px; /* Add space around each image */
       }
+    h2 {
+        text-align: center;
+        margin-top: 20px;
+    }
     </style>
 </head>
 
 <body>
     <div class="speaker-container">
+        <h2>Speakers attending the round table</h2>
         <div class="speaker">
             <img src="../assets/images_speakers/AURÉLIEBOISBUNON.jpeg" alt="Aurélie Boisbunon">
             <div class="speaker-info">
@@ -98,6 +103,7 @@ He has played a significant role in examining the ethical and responsible use of
         </div>
     </div>
     <div>
+        <h2>Companies attending EDS 2024</h2>
         <img src="../assets/images/aif.png" alt="Industry 1" class="industry-image">
         <img src="../assets/images/baalbek.png" alt="Industry 2" class="industry-image">
         <img src="../assets/images/GR.png" alt="Industry 3" class="industry-image">
