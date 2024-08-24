@@ -113,7 +113,7 @@ permalink: /schedule/
 
 <details class="faq-item">
     <summary>10:30 – 11:00</summary>
-    Claire Robin (ELLIS PhD student – Max-Planck Gesellschaft) – <b>EarthNet: Bringing biogeoscience and machine learning together <b>AI & Sustainability as an Industry Player</b>
+    Claire Robin (ELLIS PhD student – Max-Planck Gesellschaft) – <b>EarthNet: Bringing biogeoscience and machine learning together </b>
 </details>
 
 <details class="faq-item">
