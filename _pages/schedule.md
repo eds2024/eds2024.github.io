@@ -189,7 +189,7 @@ permalink: /schedule/
 <details class="faq-item">
     <summary>15:45 – 18:00</summary>
     <p>Treasure Hunt in <a href="https://www.google.com/maps/place/Coll%C3%A8ge+de+France/@48.8487772,2.3440201,17z/data=!4m6!3m5!1s0x47e671e70b178259:0x368c1a93de4cad06!8m2!3d48.8489749!4d2.3451788!16zL20vMDFyNmZk?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"> Quartier Latin </a> (11 Pl. Marcelin Berthelot, 75231 Paris)</p>
-    <p> Participants will be grouped in 15 teams </p>
+    <p> Participants will be grouped in 15 teams, see list <ahref="https://docs.google.com/spreadsheets/d/1RL4SgCiXEzTtGpYgqRCXEzoaX2TtK3Yflkvnexspwco/edit?usp=sharing"> here</a> </p>
 </details>
 </div>
 
