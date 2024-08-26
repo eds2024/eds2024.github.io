@@ -72,7 +72,7 @@ permalink: /schedule/
 <details class="faq-item">
     <summary>11:30 – 13:30</summary>
     Venue: <a href="https://www.google.com/maps/place/R%C3%A9fectoire+des+Cordeliers+%7C+RIVP/@48.8507562,2.3403087,19z/data=!4m6!3m5!1s0x47e671dc29c3ea81:0x1f731afc5790339d!8m2!3d48.8505903!4d2.3411616!16s%2Fg%2F1tqf_n92?hl=en&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D">Réfectoire des Cordeliers</a>
-    <p>Industry fair + speed dating with industry partners</p>
+    <p>Industry fair + speed dating with industry partners (see schedule <a href="https://docs.google.com/spreadsheets/d/1NnSeVQEX3aVuOR8GvEfsfK1hSLLDIG4O/edit?usp=sharing&ouid=109134132143406298705&rtpof=true&sd=true">here</a>)</p>
 </details>
 
 <details class="faq-item">
