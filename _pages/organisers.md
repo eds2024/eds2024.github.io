@@ -192,6 +192,14 @@ permalink: /organisers/
     </div>
 <div class="organiser">
         <a href="">
+            <img src="../assets/images_organisers/khalid.png" alt="Khalid Oublal">
+            <p>Khalid Oublal</p>
+        </a>
+            <p class="position">PhD Student</p>
+            <p class="company">Télécom Paris</p>
+    </div>
+<div class="organiser">
+        <a href="">
             <img src="../assets/images_organisers/victor.jpeg" alt="Victor Quétu">
             <p>Victor Quétu</p>
         </a>
