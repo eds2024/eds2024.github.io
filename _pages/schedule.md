@@ -198,11 +198,11 @@ permalink: /schedule/
 
 
 <h2> Friday 30/08 </h2>
-Venue: <a href="https://www.google.com/maps/place/48°49'16.9%22N+2°19'31.2%22E/@48.821361,2.3240379,18z/data=!3m1!4b1!4m12!1m7!3m6!1s0x47e671ae9a95b665:0xb00801c705bad893!2sPorte+d'Orléans!8m2!3d48.822715!4d2.3259877!16s%2Fm%2F0j65h_n!3m3!8m2!3d48.821361!4d2.325328?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D"> meeting point - 8:45am (firm) </a>
+Venue: Porte d'Orléans <a href="https://www.google.com/maps/place/48°49'16.9%22N+2°19'31.2%22E/@48.821361,2.3240379,18z/data=!3m1!4b1!4m12!1m7!3m6!1s0x47e671ae9a95b665:0xb00801c705bad893!2sPorte+d'Orléans!8m2!3d48.822715!4d2.3259877!16s%2Fm%2F0j65h_n!3m3!8m2!3d48.821361!4d2.325328?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D"> meeting point - 8:45am (firm) </a>
 <div class="faq-section">
 <details class="faq-item">
     <summary>8:45</summary>
-    <p>Meeting point at <a href="https://www.google.com/maps/place/Porte+d'Orl%C3%A9ans/@48.822715,2.3259877,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671ae9a95b665:0xb00801c705bad893!8m2!3d48.822715!4d2.3259877!16s%2Fm%2F0j65h_n?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D">Porte d’Orléans </a> (look for Ekhine and Julien!)</p>
+    <p>Meeting point at <a href="https://www.google.com/maps/place/48°49'16.9%22N+2°19'31.2%22E/@48.821361,2.3240379,18z/data=!3m1!4b1!4m12!1m7!3m6!1s0x47e671ae9a95b665:0xb00801c705bad893!2sPorte+d'Orléans!8m2!3d48.822715!4d2.3259877!16s%2Fm%2F0j65h_n!3m3!8m2!3d48.821361!4d2.325328?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D">Porte d’Orléans </a> (look for Ekhine and Julien!)</p>
 </details>
 
 <details class="faq-item">
