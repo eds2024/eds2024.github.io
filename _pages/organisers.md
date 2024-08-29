@@ -196,7 +196,7 @@ permalink: /organisers/
             <p>Khalid Oublal</p>
         </a>
             <p class="position">PhD Student</p>
-            <p class="company">Télécom Paris</p>
+            <p class="company">IP Paris</p>
     </div>
 <div class="organiser">
         <a href="">
