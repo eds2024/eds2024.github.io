@@ -127,6 +127,7 @@ Ultimately, AI² advocates for a future where Artificial Intelligence is not onl
                     <h2>Tiphaine Viard (Telecom Paris)</h2>
                 </a>
                 <p><strong>AI as a Sociotechnical construct</strong></p>
+                <p>Abstract: I will talk about how Artificial Intelligence at large should be studied as a sociotechnical object, i.e. both through its technical components (e.g. machine learning) and its social ones: AI systems run on physical servers and depend on human labour, both visible and invisible, to run properly; since may 2024, AI has entered regulated territory in the EU, with the adoption of the AI act; AI systems are used widely, including in high-risk societal settings; users  take hold of the technology and spark new and unexpected usages. Neither adhering to the vision of AI as an ineluctable technological revolution nor ignoring its current impacts and challenges on society, this talk will introduce the main scientific and regulatory tenets of the social study of artificial intelligence.</p>
             </div>
         </div>
     </div>
