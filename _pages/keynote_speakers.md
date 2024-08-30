@@ -119,5 +119,16 @@ Ultimately, AI² advocates for a future where Artificial Intelligence is not onl
 <p><em>Caroline is also the co-founder of <a href="https://www.meetup.com/fr-FR/Paris-Women-in-Machine-Learning-Data-Science/">the Paris meetup chapter of Women in Machine Learning and Data Science (WiMLDS)</a>, click on the link for more information.</em></p>
             </div>
         </div>
+    <div class="speaker">
+            <img src="../assets/images_speakers/tviard.jpg" alt="Tiphaine Viard">
+            <div class="speaker-info">
+                <a href="https://theallyance.one/team">
+                    <!-- <h2>Caroline Therwath-Chavier</h2> -->
+                    <h2>Tiphaine Viard (Telecom Paris)</h2>
+                </a>
+                <p><strong>AI as a Sociotechnical construct</strong></p>
+                <p>Abstract: </em></p>
+            </div>
+        </div>**
     </div>
 <!-- </body> -->
