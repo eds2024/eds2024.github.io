@@ -122,13 +122,12 @@ Ultimately, AI² advocates for a future where Artificial Intelligence is not onl
     <div class="speaker">
             <img src="../assets/images_speakers/tviard.jpg" alt="Tiphaine Viard">
             <div class="speaker-info">
-                <a href="https://theallyance.one/team">
+                <a href="https://tiphainev.github.io/">
                     <!-- <h2>Caroline Therwath-Chavier</h2> -->
                     <h2>Tiphaine Viard (Telecom Paris)</h2>
                 </a>
                 <p><strong>AI as a Sociotechnical construct</strong></p>
-                <p>Abstract: </em></p>
             </div>
-        </div>**
+        </div>
     </div>
 <!-- </body> -->
